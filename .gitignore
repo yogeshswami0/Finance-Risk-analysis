@@ -1,0 +1,21 @@
+# Logs
+*.log
+logs/
+
+# Dependencies
+node_modules/
+dashboard/node_modules/
+
+# Production build outputs
+dist/
+dashboard/dist/
+
+# Editor settings
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+.DS_Store

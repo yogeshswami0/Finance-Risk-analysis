@@ -1,0 +1,10 @@
+﻿| Loan_ID | Customer_Name     | Loan_Amount | Loan_Type     | Interest_Rate | Status     | Issue_Date  | Region     | Credit_Score |
+|---------|-------------------|-------------|---------------|---------------|------------|-------------|------------|--------------|
+| L-3001  | harish pandey     | 550000      | Home loan     | 8.6%          | Active     | 08-07-2025  | North      | 710          |
+| L-3002  | MEENA SAXENA      | 280000      | personal loan | 12.5%         | Defaulted  | 19-07-2025  | EAST       | 560          |
+| L-3003  | Rohit Bansal      | 420000      | Auto Loan     | 9.25%         | Active     | 02-08-2025  | South      | 680          |
+| L-3004  | Divya Krishnan    | NULL        | home loan     | 8.1%          | Active     | 11-08-2025  | west       | 745          |
+| L-3005  | AJAY BHATT        | 190000      | Personal Loan | 13.0 %        | NPA        | 25-08-2025  | North      | 595          |
+| L-3006  | Smita Jain        | 670000      | HOME LOAN     | 7.85%         | Active     | 09-09-2025  | South      | 770          |
+| L-3007  | pawan kumar       | 240000      | Auto Loan     | 10.25%        | Closed     | 20-09-2025  | East       | 660          |
+| L-3008  | Lata Misra        | 310000      | personal loan | NULL          | Defaulted  | 30-09-2025  | WEST       | NULL         |

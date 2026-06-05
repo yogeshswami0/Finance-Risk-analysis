@@ -1,0 +1,10 @@
+﻿| Loan_ID | Customer_Name     | Loan_Amount | Loan_Type     | Interest_Rate | Status     | Issue_Date  | Region     | Credit_Score |
+|---------|-------------------|-------------|---------------|---------------|------------|-------------|------------|--------------|
+| L-1001  | Rahul sharma      | 500000      | Home Loan     | 8.5%          | Active     | 15-01-2025 | North      | 720          |
+| L-1002  | PRIYA MEHTA       | 250000      | personal loan | 12.00%        | Defaulted  | 22-01-2025  | south      | 580          |
+| L-1003  | Amit Kumar        | NULL        | Auto Loan     | 9.75%         | Active     | 05-02-2025  | East       | 690          |
+| L-1004  | sunita VERMA      | 750000      | Home Loan     | 8.25%         | Closed     | 18-02-2025  | WEST       | 760          |
+| L-1005  | Rajesh Gupta      | 100000      | Personal Loan | 14.5 %        | Active     | 01-03-2025  | North      | 640          |
+| L-1006  | Neha Singh        | 300000      | auto loan     | 10.0%         | NPA        | 12-03-2025  | East       | 610          |
+| L-1007  | DEEPAK JOSHI      | 450000      | Home Loan     | 8.75%         | Active     | 25-03-2025  | South      | 700          |
+| L-1008  | Kavita Rao        | 200000      | personal Loan | NULL          | Defaulted  | 30-03-2025  | West       | NULL         |
