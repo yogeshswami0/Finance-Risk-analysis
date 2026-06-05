@@ -128,3 +128,6 @@ $$\text{Interest Income} = \sum \left( \frac{\text{Interest Rate} \times \text{L
 1. Open `Finance Risk Analytic Project.pbix` in Power BI Desktop.
 2. In Power Query Editor (Transform Data), update the folder path source to match your local project directory.
 3. Apply changes and click **Refresh** to reload the quarterly sheets.
+
+## Developed by 
+YOGESH SWAMI NITJSR 27
