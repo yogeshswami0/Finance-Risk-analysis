@@ -124,6 +124,9 @@ $$\text{Interest Income} = \sum \left( \frac{\text{Interest Rate} \times \text{L
 4. Open your web browser and navigate to:
    [http://localhost:5173/](http://localhost:5173/)
 
+5. Open official link:
+   [https://yogeshswami0.github.io/Finance-Risk-analysis/](https://yogeshswami0.github.io/Finance-Risk-analysis/)
+
 ### 2. Launching the Power BI Project
 1. Open `Finance Risk Analytic Project.pbix` in Power BI Desktop.
 2. In Power Query Editor (Transform Data), update the folder path source to match your local project directory.
